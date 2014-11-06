@@ -3,7 +3,7 @@ selenium-nightwatch
 
 Ultra-easy acceptance testing for your Meteor app with Selenium and Nightwatch.  
 
-**Note:  This package is deprecated and no longer maintained.  Please see (clinical:nightwatch)[http://github.com/awatson1978/clinical-nightwatch.git] for the latest.**  
+**Note:  This package is deprecated and no longer maintained.  Please see [clinical:nightwatch](http://github.com/awatson1978/clinical-nightwatch.git) for the latest.**  
 
 ####  Requirements
 
